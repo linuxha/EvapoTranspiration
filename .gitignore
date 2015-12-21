@@ -63,3 +63,6 @@ logs/
 sitelibs/
 weatherprograms/
 wuData/
+# backup data directory
+t/
+zap*
